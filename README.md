@@ -6,6 +6,7 @@
    - 🌐 **Frontend:** HTML, CSS, Bootstrap 5, JavaScript, jQuery
    - ⚙️ **Backend:** Java, PHP, CodeIgniter 4
    - 💾 **Bases de datos:** MySQL
+   - 🛠️ **Herramientas:** Git, GitHub, Docker  
    
    ## 📚 Actualmente aprendiendo:
    - 🚀 TypeScript con Node.js
@@ -17,7 +18,9 @@
 
    ## 📌 Proyectos Destacados:
    - [🔗 Proyecto Final](https://github.com/CristianJurado/Proyecto_Final)
-   - [🔗 Proyecto Final_1ºDAW](https://github.com/CristianJurado/proyectoFinal1-DAW)
+   - [🔗 Proyecto Final 1ºDAW](https://github.com/CristianJurado/proyectoFinal1-DAW)
+   - [🔗 Desarrollo Web Entrono Cliente](https://github.com/CristianJurado/DWEC)
+   - [🔗 Diseño de Interfaces Web](https://github.com/CristianJurado/DIW)
 
    ## 🌍 Conéctate conmigo:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/cristian-jurado-lópez-85834b348/)
